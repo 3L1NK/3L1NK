@@ -8,7 +8,9 @@ I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universi
 
 - **Machine Learning Projects:** Developed multiple machine learning models for stock prediction and sentiment analysis, utilizing tools like Python, TensorFlow, and Dash. These projects involved data visualization, natural language processing, and predictive analytics, showcasing my ability to turn raw data into actionable insights.
 
-- **Technical Internships:** Worked as a process engineering intern at ZEISS Medical Technology, where I automated measurement processes and created real-time data dashboards. Also gained experience at Opel Automobile GmbH, contributing to tech-driven optimizations.
+- **MURMEL Robot Orientation Detection:** Designed and implemented a machine learning model using TensorFlow for real-time robot orientation detection. This project involved the development of navigation algorithms with Python, C++, and ROS, as well as computer vision techniques with OpenCV, demonstrating my skills in AI-driven robotics solutions.
+
+- **Technical Internships:** Worked as a process engineering intern at ZEISS Medical Technology, where I automated measurement processes and created real-time data dashboards. Also gained experience at Opel Automobile GmbH
 
 - **Academic Projects:** From building AI models for robot orientation detection to implementing blockchain-based data automation systems, my academic pursuits reflect a blend of innovation, technical skill, and a drive to push boundaries in the field of AI and data science.
 
@@ -17,6 +19,8 @@ I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universi
 - **Programming Languages:** Python, C, C++, Julia, R, MATLAB
 - **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-Learn, NLP, Deep Learning
 - **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Dash, Seaborn, SQL
+- **Computer Vision:** OpenCV, Image Processing, Pattern Recognition
+- **Robotics & Automation:** ROS (Robot Operating System)
 - **Cloud & Tools:** Basic knowledge in Google Cloud, Docker, Linux, Git
 - **Languages:** English (C1), German (C1), Indonesian (Native), Chinese (A1)
 
