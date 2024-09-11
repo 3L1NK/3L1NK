@@ -6,7 +6,7 @@ I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universi
 
 ### 💼 Experience
 
-- **Machine Learning Projects:** Developed multiple machine learning models for stock prediction and sentiment analysis, utilizing tools like Python, TensorFlow, and Dash. These projects involved data visualization, natural language processing, and predictive analytics, showcasing my ability to turn raw data into actionable insights.
+- **Machine Learning Projects:** Developed multiple machine learning models for stock prediction and sentiment analysis, utilizing tools like SQL, Python, TF & Pytorch, and Dash. These projects involved data pipelines, data visualization, natural language processing and predictive analytics, showcasing my ability to turn raw data into actionable insights.
 
 - **MURMEL Robot Orientation Detection:** Designed and implemented a machine learning model using TensorFlow for real-time robot orientation detection. This project involved the development of navigation algorithms with Python, C++, and ROS, as well as computer vision techniques with OpenCV, demonstrating my skills in AI-driven robotics solutions.
 
