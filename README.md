@@ -37,7 +37,7 @@ I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universi
 
 ### 📊 GitHub Stats
 
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?3L1NK&show_icons=true&theme=radical)
 
 ### 🤝 Let's Collaborate!
 
