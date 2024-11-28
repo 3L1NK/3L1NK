@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eric Rusli!
 
-### 🚀 Aspiring Machine Learning Engineer | Data Enthusiast | AI Innovator
+### 🚀 Aspiring Coder
 
 I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universität zu Berlin, with a passion for leveraging data and machine learning to solve complex problems. My journey in tech has been fueled by a keen interest in data science, artificial intelligence, and the practical applications of these technologies in real-world scenarios.
 
