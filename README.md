@@ -35,11 +35,6 @@ I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universi
 - 📧 [Email](mailto:ericrusli123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-rusli/)
 
-### 📊 GitHub Stats
-
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3L1NK&show_icons=true&theme=radical)
-
-
 ### 🤝 Let's Collaborate!
 
 I'm always open to collaborating on interesting projects or discussing innovative ideas in the fields of data science, machine learning, and AI. Feel free to reach out!
