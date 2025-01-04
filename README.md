@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Coder
 
-I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universität zu Berlin, focuses on trying to implement ML tools to solve real world problems. 
+I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universität zu Berlin, focuses on trying to implement ML tools to solve real world problems. yeiyeeeiiii
 
 ### 💼 Experience
 
