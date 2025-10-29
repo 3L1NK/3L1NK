@@ -1,40 +1,25 @@
-# 👋 Hello, I'm Eric Rusli!
+👋 Hey, I’m Eric
+🚀 Building things that learn
 
-### 🚀 Aspiring Coder
+Currently working on projects that mix machine learning, data engineering, and automation to make life (and data) a bit smarter.
 
-I'm currently a Master’s student in Wirtschaftsinformatik at Humboldt-Universität zu Berlin, focuses on trying to implement ML tools to solve real world problems. yeiyeeeiiii
+💼 What I’ve done
 
-### 💼 Experience
+ML & Analytics: Built models for stock prediction, sentiment analysis and tons of insightful dashboards using Python, TF and PyTorch.
 
-- **Machine Learning Projects:** Developed multiple ML models for stock prediction and sentiment analysis, utilizing tools like SQL, Python, TF & Pytorch and Dash. These projects involved data pipelines, data visualization, NLP and predictive analytic.
+Robotics: Used TensorFlow + ROS to teach a robot how to find its way around and find the object.
 
-- **MURMEL Robot Orientation Detection:** Designed and implemented a machine learning model using TensorFlow for real-time robot orientation detection. This project involved the development of navigation algorithms with Python, C++, and ROS, as well as computer vision techniques with OpenCV, demonstrating my skills in AI-driven robotics solutions.
+Internships: Automated measurement workflows and dashboards at ZEISS and built real-time data pipelines across 550+ stores during my latest internship.
 
-- **Technical Internships:** Worked as a process engineering intern at ZEISS Medical Technology, where I automated measurement processes and created real-time data dashboards. 
+🧠 Stack I vibe with
 
-- **Academic Projects:** From building AI models to implementing blockchain-based data automation systems, my academic pursuits reflect a blend of innovation, technical skill, and a drive to push boundaries in the field of AI and data science.
+Python · SQL · TensorFlow · PyTorch · Docker · dbt · Airflow · GCP · React · Git · Linux
 
-### 🛠️ Skills
+🌱 Right now
 
-- **Programming Languages:** Python, Javascript, Typescript, HTML, CSS, React
-- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-Learn
-- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Dash, Seaborn, SQL
-- **Computer Vision:** OpenCV, Image Processing, Pattern Recognition
-- **Robotics & Automation:** ROS (Robot Operating System)
-- **Cloud & Tools:** Basic knowledge in Google Cloud, Docker, Linux, Git
-- **Languages:** English (C1), German (C1), Indonesian (Native), Chinese (A1)
+Learning more about cloud infrastructure and scaling ML systems without breaking (too much).
 
-### 🌱 What I'm Learning
+🌐 Find me
 
-- Expanding my skills in cloud computing (AWS, Azure)
-- Diving deeper into advanced AI techniques and their applications in business
-- Exploring state-of-the-art tools and technologies in data engineering
-
-### 🌐 Connect with Me
-
-- 📧 [Email](mailto:ericrusli123@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eric-rusli/)
-
-### 🤝 Let's Collaborate!
-
-I'm always open to collaborating on interesting projects or discussing innovative ideas in the fields of data science, machine learning, and AI. Feel free to reach out!
+📧 ericrusli123@gmail.com
+ · 💼 LinkedIn
